@@ -1,0 +1,25 @@
+{
+  "name": "go-loader-file",
+  "version": "0.0.0",
+  "description": "Go loader for local files",
+  "main": "loader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gocli/go-loader-file.git"
+  },
+  "keywords": [
+    "template",
+    "generator",
+    "scaffold",
+    "cli"
+  ],
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com> (https://github.com/termosa)",
+  "scripts": {
+    "test": "ava"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gocli/go-loader-file/issues"
+  },
+  "homepage": "https://github.com/gocli/go-loader-file#readme"
+}
